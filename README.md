@@ -5,8 +5,8 @@ How to run : java Main  -i <name of input ppm file>  -o < desired name of output
 Note that “-c” outputs 8 files with increasing resolution with numbered nomenclature. 
 
 Sample run for input file “fire.ppm”: 
+<img src ="https://github.com/ZaynabGhazi/primitiveSnap/blob/master/fire.jpg">
 
-![](fire.ppm)
 
 
 Using the -c flag only:
