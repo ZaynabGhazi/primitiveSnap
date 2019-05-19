@@ -2,10 +2,11 @@ Contributor : Zaynab Ghazi
 
 How to run : java Main  -i <name of input ppm file>  -o < desired name of output file>  <for image compression use flag “-c”>  <for edge detection use flag “-e”> <for outline of quadTree use flag “-t”> 
 
-*Note that “-c” outputs 8 files with increasing resolution with numbered nomenclature. 
+Note that “-c” outputs 8 files with increasing resolution with numbered nomenclature. 
 
 Sample run for input file “fire.ppm”: 
-![fire](https://user-images.githubusercontent.com/43979389/57984049-a446e900-7a25-11e9-9c13-1ae0d13cc4ed.jpg)
+
+![](fire.ppm)
 
 
 Using the -c flag only:
