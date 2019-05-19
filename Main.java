@@ -2,7 +2,6 @@
  * File:    Main.java
  * Desc:
  *
- * The main driver program for Assignment 9.
  *
  * This program reads the file specified by the command line
  * applies the filters requested by flags and returns files with filters applied
