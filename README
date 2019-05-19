@@ -5,7 +5,7 @@ How to run : java Main  -i <name of input ppm file>  -o < desired name of output
 *Note that “-c” outputs 8 files with increasing resolution with numbered nomenclature. 
 
 Sample run for input file “fire.ppm”: 
-
+![fire](https://user-images.githubusercontent.com/43979389/57984049-a446e900-7a25-11e9-9c13-1ae0d13cc4ed.jpg)
 
 
 Using the -c flag only:
