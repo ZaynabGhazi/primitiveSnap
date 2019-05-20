@@ -3,7 +3,7 @@
  * Desc:
  *
  * This program writes a ppm file from just an array of pixels.
- * The source code copied from lecture slide.
+ * 
  *
  */
 import java.util.*;
